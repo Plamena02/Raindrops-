@@ -23,11 +23,8 @@ namespace Raindrops
             if (gust != 0)
             {
                 Sum /= gust;
-
             }
             Console.WriteLine("{0:F3}",Sum);
-
-
         }
     }
 }
